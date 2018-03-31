@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
 const char* ssid = "Wifi";
-const char* password = "91095107";
+const char* password = "Senha";
  
 int ledPin = 0; // GPIO13---D3 no NODEMCU
 WiFiServer server(80);
